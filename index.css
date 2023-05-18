@@ -46,14 +46,6 @@ body {
     margin-top: 0;
 }
 
-#home-section {
-    margin-left: 10px;
-}
-
-#guest-section {
-    margin-right: 10px;
-}
-
 .board {
     width: 100px;
     height: 100px;
@@ -87,6 +79,8 @@ hr {
     width: 3px;
     height: 270px;
     margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
     border: none;
     border-radius: 5px;
     background: #ffc300;
