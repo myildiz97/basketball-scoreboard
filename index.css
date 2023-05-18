@@ -46,6 +46,14 @@ body {
     margin-top: 0;
 }
 
+#home-section {
+    margin-left: 10px;
+}
+
+#guest-section {
+    margin-right: 10px;
+}
+
 .board {
     width: 100px;
     height: 100px;
